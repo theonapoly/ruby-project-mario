@@ -1,4 +1,4 @@
-puts "Choose a number between 1 & 50"
+puts "Choisis un nombre entre 1 et 50"
 print ">"
 
 number_of_floors = gets.chomp.to_i
